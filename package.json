@@ -1,0 +1,19 @@
+{
+  "name": "mongodb_crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-json-modules app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}
